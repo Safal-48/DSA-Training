@@ -12,4 +12,4 @@ int main()
     }
     cout << "Factorial of " << n << " = " << factorial << endl;
     return 0;     
-}
+}                                                         
